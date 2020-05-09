@@ -1,0 +1,16 @@
+apiVersion : apps/v1beta1
+kind: Deployment
+metadata:
+  name: "kstestcluster"
+spec:
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: "kstestcluster"
+    spec:
+      containers:
+        - name: "kstestcluster"
+          image: "azcontainerkt.azurecr.io/kstestcluster"
+          ports:
+          - containerPort: 8080
