@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0185c4a9-556d-43da-adbc-205042960726" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bWvpIIqiRzLypepPEjJieV4j18" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.74364895" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.demo.azureService" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/demo/azureService" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="GradleRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplicationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="testKotlin.main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.azureService.MainApplicationKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainApplicationKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0185c4a9-556d-43da-adbc-205042960726" name="Default Changelist" comment="" />
+      <created>1588760845981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588760845981</updated>
+      <workItem from="1588760850455" duration="3723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="99" key="#Project_Structure" timestamp="1588761640280">
+      <screen x="0" y="22" width="1440" height="824" />
+    </state>
+    <state x="320" y="99" key="#Project_Structure/0.22.1440.824@0.22.1440.824" timestamp="1588761640280" />
+    <state x="185" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588761631897">
+      <screen x="0" y="22" width="1440" height="824" />
+    </state>
+    <state x="185" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1440.824@0.22.1440.824" timestamp="1588761631897" />
+    <state x="459" y="217" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1588761462274">
+      <screen x="0" y="22" width="1440" height="824" />
+    </state>
+    <state x="459" y="217" key="#com.intellij.ide.util.PackageChooserDialog/0.22.1440.824@0.22.1440.824" timestamp="1588761462274" />
+    <state x="458" y="225" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588761620129">
+      <screen x="0" y="22" width="1440" height="824" />
+    </state>
+    <state x="458" y="225" key="#com.intellij.ide.util.TreeClassChooserDialog/0.22.1440.824@0.22.1440.824" timestamp="1588761620129" />
+    <state x="495" y="93" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1588761734593">
+      <screen x="0" y="22" width="1440" height="824" />
+    </state>
+    <state x="495" y="93" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.22.1440.824@0.22.1440.824" timestamp="1588761734593" />
+    <state width="1397" height="262" key="GridCell.Tab.0.bottom" timestamp="1588762017711">
+      <screen x="0" y="22" width="1440" height="824" />
+    </state>
+    <state width="1397" height="262" key="GridCell.Tab.0.bottom/0.22.1440.824@0.22.1440.824" timestamp="1588762017711" />
+    <state width="1397" height="262" key="GridCell.Tab.0.center" timestamp="1588762017710">
+      <screen x="0" y="22" width="1440" height="824" />
+    </state>
+    <state width="1397" height="262" key="GridCell.Tab.0.center/0.22.1440.824@0.22.1440.824" timestamp="1588762017710" />
+    <state width="1397" height="262" key="GridCell.Tab.0.left" timestamp="1588762017709">
+      <screen x="0" y="22" width="1440" height="824" />
+    </state>
+    <state width="1397" height="262" key="GridCell.Tab.0.left/0.22.1440.824@0.22.1440.824" timestamp="1588762017709" />
+    <state width="1397" height="262" key="GridCell.Tab.0.right" timestamp="1588762017710">
+      <screen x="0" y="22" width="1440" height="824" />
+    </state>
+    <state width="1397" height="262" key="GridCell.Tab.0.right/0.22.1440.824@0.22.1440.824" timestamp="1588762017710" />
+    <state x="114" y="48" key="new project wizard" timestamp="1588930532195">
+      <screen x="0" y="22" width="1440" height="824" />
+    </state>
+    <state x="114" y="48" key="new project wizard/0.22.1440.824@0.22.1440.824" timestamp="1588930532195" />
+    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1588761031725">
+      <screen x="0" y="22" width="1440" height="824" />
+    </state>
+    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup/0.22.1440.824@0.22.1440.824" timestamp="1588761031725" />
+  </component>
+</project>
